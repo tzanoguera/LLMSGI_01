@@ -5,7 +5,7 @@ Primera pràctica
 ### CLADERA <h3>
 #### ANIVERSARI <h4>
 ##### *22 DE SETEMBRE* <h5>
-## **Ejercicis*
+## *Ejercicis*
 * Cream un arxiu HTML
 ##### Anam al web https://raw.githack.com/ i posam la direcció https://github.com/tzanoguera/LLMSGI_01/blob/master/zanoguera.html
 ##### Ens la transforma en una direcció funcional:
