@@ -11,6 +11,7 @@ Primera pràctica
 * 1B CREAR XML
 * 1C CREAR HTML
 ## DEMOSTRAR QUE FUNCIONA HTML CON raw.githack.com 
+* https://raw.githack.com/
 * https://rawcdn.githack.com/micropablo/lm2018task1/master/lm.html
 *CURSIVA*
 **NEGRITA**
