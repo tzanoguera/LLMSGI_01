@@ -4,13 +4,11 @@ Primera pràctica
 ## ZANOGUERA <h2>
 ### CLADERA <h3>
 #### ANIVERSARI <h4>
-##### 22 DE SETEMBRE <h5>
+##### *22 DE SETEMBRE* <h5>
 ## **Ejercicis*
 * CREAR RTF
 * 1B CREAR XML
 * 1C CREAR HTML
-## DEMOSTRAR QUE FUNCIONA HTML CON raw.githack.com 
-* https://raw.githack.com/
+## Anam al web https://raw.githack.com/
+## La direcció web serà:
 * https://raw.githack.com/tzanoguera/LLMSGI_01/master/zanoguera.html
-*CURSIVA*
-**NEGRITA**
