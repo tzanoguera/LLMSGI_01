@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exemple>
+<estudiants>
+<nom>"TOMAS"</nom>
+<cognoms>"ZANOGUERA CLADERA"</cognoms>
+<sexe>"Masculi"</sexe>
+<aniversari_dia>"22"</aniversari_dia>
+<aniversari_mes>"9"</aniversari_mes>
+<aniversari_any>"1975"</aniversari_any>
+</estudiants>
+</exemple>
